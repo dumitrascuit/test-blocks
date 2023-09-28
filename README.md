@@ -9,7 +9,8 @@ Plugin to add custom native Gutenberg blocks and block patterns
 * Run `npm run build` to build the bundle files for the production
 
 ## Dev dependencies
-* PHP: 7.4 or above
+* PHP: 8.1 or above
+* Wordpress 6.3
 * Composer
 * Node package manager
 * Node.js v15 or above
