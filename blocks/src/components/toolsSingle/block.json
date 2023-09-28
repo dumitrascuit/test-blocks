@@ -1,0 +1,31 @@
+{
+  "apiVersion": 2,
+  "name": "test-blocks/tools-single",
+  "title": "Tools single",
+  "category": "test-blocks",
+  "parent": ["test-blocks/tools-section"],
+  "icon": "",
+  "description": "Single tools item for use in section",
+  "keywords": [
+    "Redacre",
+    "Tools"
+  ],
+  "textdomain": "",
+  "styles": [],
+  "supports": {},
+  "example": {
+    "attributes": {
+      "preview": false
+    }
+  },
+  "attributes": {
+    "toolsId": {
+      "type": "string"
+    },
+    "toolsDescription": {
+      "type": "string"
+    }
+  },
+  "editorStyle": "",
+  "style": "file:build/style.css"
+}

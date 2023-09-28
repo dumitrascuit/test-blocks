@@ -1,0 +1,11 @@
+@import "assets/scss/common/utils/variables";
+@import "assets/scss/common/utils/mixins";
+
+.ra-patterns-tools {
+  .wp-block-group__inner-container {
+    h2 {
+      font-size: 42px !important;
+      line-height: 42px !important;
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ra-patterns/hero",
+  "label": "Hero",
+  "description": "",
+  "class": "ra-patterns-hero",
+  "patternsViews": {
+    "regular": {
+      "title": "Hero Section - Regular"
+    }
+  },
+  "editorStyle": "file:build/editor.css",
+  "style": "file:build/style.css"
+}

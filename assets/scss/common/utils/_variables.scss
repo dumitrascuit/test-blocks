@@ -1,0 +1,39 @@
+/**
+ * Variables used across the blocks
+ */
+
+$font-weight__normal: 400;
+$font-weight__bold: 700;
+
+// Variables used to display in Gutenberg editor. For frontend use CSS3 vars should be used instead to allow overrides.
+$color__blue: #251f6e;
+$color__lightblue: #8a94f7;
+$color__lightbluedarker: #6371f4;
+$color__lightblueopacity: rgba(99, 113, 244, 0.4);
+$color__white: #fff;
+$color__black: #000;
+$color__grey-1: #848484;
+$color__grey-2: #797979;
+$color__grey-3: #474747;
+
+// Variables that will use theme css 3 variables. This vars should be redeclared if we use 3rd party theme.
+$color__css3-var-black: var(--color__black);
+$color__css3-var-white: var(--color__white);
+$color__css3-var-blue: var(--color__blue);
+$color__css3-var-lightbluedarker: var(--color__lightbluedarker);
+$color__css3-var-lightblue: var(--color__lightblue);
+$color__css3-var-lightblueopacity: var(--color__lightblueopacity);
+$color__css3-var-grey-1: var(--color__grey-1);
+$color__css3-var-grey-2: var(--color__grey-2);
+$color__css3-var-grey-3: var(--color__grey-3);
+
+// Gutenberg breakpoints
+$breakpoint__sm: 599px;
+$breakpoint__sm-up: 600px;
+$breakpoint__md: 781px;
+$breakpoint__md-up: 782px;
+$breakpoint__l: 991px;
+$breakpoint__l-up: 992px;
+$breakpoint__xl: 1199px;
+$breakpoint__xl-up: 1200px;
+$breakpoint__xxl: 1399px;

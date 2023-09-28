@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+node_modules/*
+.idea
+npm-debug.log
+vendor
+.php_cs.cache
+composer.lock
+package-lock.json
+assets/dist
+blocks/**/build/*
+!blocks/**/build/*asset.php
+patterns/**/build/*
+!patterns/**/build/*asset.php

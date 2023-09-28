@@ -1,0 +1,13 @@
+{
+    "/assets/dist/js/editor.blocks.js": "/assets/dist/js/editor.blocks.js",
+    "/assets/dist/js/blocks-frontend-common.script.js": "/assets/dist/js/blocks-frontend-common.script.js",
+    "/blocks/src/toolsSection/build/editor.style.css": "/blocks/src/toolsSection/build/editor.style.css",
+    "/blocks/src/toolsSection/build/style.css": "/blocks/src/toolsSection/build/style.css",
+    "/blocks/src/components/toolsSingle/build/style.css": "/blocks/src/components/toolsSingle/build/style.css",
+    "/assets/dist/css/editor-common.style.css": "/assets/dist/css/editor-common.style.css",
+    "/assets/dist/css/blocks-common.style.css": "/assets/dist/css/blocks-common.style.css",
+    "/patterns/tools/build/style.css": "/patterns/tools/build/style.css",
+    "/patterns/tools/build/editor.css": "/patterns/tools/build/editor.css",
+    "/patterns/hero/build/style.css": "/patterns/hero/build/style.css",
+    "/patterns/hero/build/editor.css": "/patterns/hero/build/editor.css"
+}

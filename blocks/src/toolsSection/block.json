@@ -1,0 +1,19 @@
+{
+  "apiVersion": 2,
+  "name": "test-blocks/tools-section",
+  "title": "Tools section",
+  "category": "test-blocks",
+  "icon": "",
+  "description": "Tools section to display tools CPT",
+  "keywords": [
+    "Redacre",
+    "Tools"
+  ],
+  "textdomain": "",
+  "styles": [],
+  "supports": {},
+  "example": {},
+  "attributes": {},
+  "editorStyle": "file:build/editor.style.css",
+  "style": "file:build/style.css"
+}

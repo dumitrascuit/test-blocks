@@ -1,0 +1,10 @@
+/**
+ * File used for the Gutenberg editor only
+ *
+ * sass-7-1-pattern, https://gist.github.com/rveitch/84cea9650092119527bc
+ */
+@import "common/utils/variables";
+@import "common/utils/mixins";
+@import "editor/components/blocks/cantDisplayBlock";
+
+// Patterns styles are connected separately from patterns folder

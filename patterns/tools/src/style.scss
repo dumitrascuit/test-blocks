@@ -1,0 +1,46 @@
+@import "assets/scss/common/utils/variables";
+@import "assets/scss/common/utils/mixins";
+
+.ra-patterns-tools {
+  margin: 48px 0;
+
+  .wp-block-group__inner-container {
+    padding: 0;
+
+    h2 {
+      margin-top: 0;
+      margin-left: auto;
+      margin-right: auto;
+      font-size: 42px;
+      line-height: 42px;
+    }
+
+    p {
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .ra-tools-section {
+      margin-top: 48px;
+    }
+  }
+}
+
+@include breakpoint(md) {
+  .ra-patterns-tools {
+    margin: 64px 0;
+    text-align: center;
+
+    .wp-block-group__inner-container {
+      h2 {
+        font-size: 96px;
+        line-height: 60px;
+        max-width: 660px;
+      }
+
+      p {
+        max-width: 760px;
+      }
+    }
+  }
+}

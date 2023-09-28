@@ -1,0 +1,14 @@
+@import "../../../../assets/scss/common/utils/variables";
+@import "../../../../assets/scss/common/utils/mixins";
+
+.ra-tools-section {
+  display: flex;
+  overflow: auto;
+  padding-bottom: 24px;
+}
+
+@include breakpoint(md) {
+  .ra-tools-section {
+    padding: 0 60px;
+  }
+}
